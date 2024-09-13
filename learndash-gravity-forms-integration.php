@@ -2,7 +2,7 @@
 /*
 Plugin Name: LearnDash Gravity Forms Integration
 Description: A plugin to integrate LearnDash with Gravity Forms to hide LearnDash Buttons when required.
-Version: 1.0
+Version: 1.1
 Author: Phil Evans Rubber Duck Digital
 */
 // Your plugin code here
